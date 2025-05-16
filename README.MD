@@ -1,16 +1,14 @@
 # Java Spring Starter template
-Template này được sử dụng cho series Java Spring MVC (dự án laptopshop) của tác giả Hỏi Dân IT (Eric)
+Template này là về dự án website bán máy tính về mô hình MVC 
 
 ## Về tác giả
-Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
+Thông tin về tác giả Nguyễn Viết Phúc 
 
-Website chính thức: https://hoidanit.vn/
+Website chính thức:.......
 
-Youtube “Hỏi Dân IT” : https://www.youtube.com/@hoidanit
+Youtube  : .............
 
-Tiktok “Hỏi Dân IT” :  https://www.tiktok.com/@hoidanit
+Tiktok : ..............
 
-Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
-
-Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
+Fanpage : ............
 
